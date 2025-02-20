@@ -1,3 +1,5 @@
-.envrc
+.env
+
 .python-version
+
 *.csv
